@@ -95,3 +95,5 @@ docker run --rm \
 | `-b 115200` | Sets the upload baud rate used by the standard Uno bootloader. |
 | `-D` | Prevents AVRDude from issuing its usual chip-erase operation before writing. |
 | `-U flash:w:blink.hex:i` | Writes the Intel HEX file to flash memory. |
+
+[Click here For More](https://github.com/avrdudes/avrdude/)
